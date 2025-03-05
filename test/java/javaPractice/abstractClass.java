@@ -1,7 +1,7 @@
 package javaPractice;
 
 abstract class abstractClass {
-    public String fname="Hello";
+    public String fname="Hello, World";
     public int number=5;
     public abstract void office();
 }
